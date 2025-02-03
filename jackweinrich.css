@@ -1,0 +1,17 @@
+.center-image {
+    display: block;
+    margin: 0 auto;
+}
+h1 {
+    text-align: center;
+    color: rgb(0, 0, 96);
+}
+.headers {
+    font-weight: 700;
+   font-style: bold;
+   font-size: x-large;
+   color: rgb(0, 0, 96);
+}
+* {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
